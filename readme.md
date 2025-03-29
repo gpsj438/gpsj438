@@ -64,3 +64,4 @@ Here are some things I can handle:
 
 - [Skillicons](https://skillicons.dev/) for the icons!
 - [Awesome Github Profiles](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates.git) for some inspirations.
+- [Github Education](https://education.github.com/experiences/launchpad_profile_readme) <!-- Although they were telling me there were no commits made from me... which clearly isn't true right. -->
